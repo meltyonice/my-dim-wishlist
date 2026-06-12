@@ -1,2 +1,4 @@
 title: MeltyOnIce's DIM Wishlist
 description: #FeedNimbusToEels
+
+dimwishlist:item=2966714447&perks=3525010810,3301904089,1523832109,3078487919,1862453963
